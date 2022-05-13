@@ -1,8 +1,8 @@
 CCNA
 Cisco Certified Network Associate
 EN
-رفتن به مود perevilage
-مود ادمین
+-رفتن به مود perevilage
+-مود ادمین
 Translating ...domain server
 پیغام خطای دستور نامفهوم یا تعریف نشده برای روتر
 برای عبور از این پیغام باید کلیدهایCtrl+Shift+6  را بزنیم
